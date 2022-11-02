@@ -15,7 +15,7 @@
     >
     <a-camera gps-camera rotation-reader> </a-camera>
     <a-entity
-           gltf-model="scene.gltf"
+           gltf-model="scooby_doo.zip.gltf"
            rotation="0 180 0"
            scale="0.15 0.15 0.15"
            gps-entity-place="latitude: 42.6735035; longitude: -83.2157847;"
